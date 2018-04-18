@@ -1,0 +1,27 @@
+{
+  "name": "gitterbotter",
+  "version": "0.0.1",
+  "description": "Hosted Telegram bot that would push stuff for you when you cant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorsarre/gitterbotter.git"
+  },
+  "keywords": [
+    "git",
+    "telegram"
+  ],
+  "author": "Andrey Kaydalov",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sorsarre/gitterbotter/issues"
+  },
+  "homepage": "https://github.com/sorsarre/gitterbotter#readme",
+  "dependencies": {
+    "datauri": "^1.1.0",
+    "telegraf": "^3.20.0"
+  }
+}
